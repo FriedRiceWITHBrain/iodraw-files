@@ -51,7 +51,7 @@
           <mxGeometry x="139.37" y="420" width="198.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-3" value="regs_last_write.find(reg) != regs_last_write.end()" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="178.75" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="145.63" y="460" width="188.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
