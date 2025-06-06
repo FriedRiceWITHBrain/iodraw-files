@@ -173,11 +173,14 @@
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-48" value="reg = INS_RegW(ins,i)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="280" width="260" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UmLmGuS8aTaX2l4C1hXr-51" target="UmLmGuS8aTaX2l4C1hXr-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-51" value="reg != REG_INVALID()" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="618.75" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-53" value="reg =&amp;nbsp; REG_FullRegName(reg)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="430" width="260" height="20" as="geometry" />
+          <mxGeometry x="550" y="420" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
