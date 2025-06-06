@@ -61,6 +61,9 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UmLmGuS8aTaX2l4C1hXr-3" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-3" value="regs_last_write.find(reg) != regs_last_write.end()" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145.63" y="460" width="188.75" height="80" as="geometry" />
         </mxCell>
@@ -106,9 +109,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="740" />
-              <mxPoint x="300" y="740" />
-              <mxPoint x="300" y="480" />
-              <mxPoint x="550" y="480" />
+              <mxPoint x="550" y="740" />
               <mxPoint x="550" y="160" />
               <mxPoint x="240" y="160" />
             </Array>
