@@ -73,6 +73,9 @@
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-13" value="dist &amp;gt; 0 &amp;amp;&amp;amp;&amp;nbsp;&lt;div&gt;dist &amp;lt;= 30&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180.01" y="600" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-17" value="reg =&amp;nbsp; REG_FullRegName(reg)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="430" width="260" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
