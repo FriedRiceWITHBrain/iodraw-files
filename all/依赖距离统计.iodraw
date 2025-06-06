@@ -156,10 +156,13 @@
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-41" value="regs_wnum = INS_MaxNumWRegs(ins)&lt;div&gt;i=0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="110" width="257.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UmLmGuS8aTaX2l4C1hXr-46" target="UmLmGuS8aTaX2l4C1hXr-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-46" value="i &amp;lt; regs_wnum" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="618.75" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UmLmGuS8aTaX2l4C1hXr-48" value="reg = INS_RegR(ins,i)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-48" value="reg = INS_RegW(ins,i)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="280" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
