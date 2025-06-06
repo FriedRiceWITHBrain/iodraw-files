@@ -52,6 +52,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-37" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UmLmGuS8aTaX2l4C1hXr-36">
+          <mxGeometry x="-0.9552" relative="1" as="geometry">
+            <mxPoint x="-9" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-1" value="reg != REG_INVALID()" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180.01" y="320" width="120" height="80" as="geometry" />
         </mxCell>
