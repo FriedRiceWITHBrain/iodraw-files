@@ -44,6 +44,14 @@
             <mxPoint x="22" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UmLmGuS8aTaX2l4C1hXr-1" target="UmLmGuS8aTaX2l4C1hXr-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="360" />
+              <mxPoint x="480" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-1" value="reg != REG_INVALID()" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180.01" y="320" width="120" height="80" as="geometry" />
         </mxCell>
