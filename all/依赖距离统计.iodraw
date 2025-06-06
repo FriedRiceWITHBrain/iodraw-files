@@ -187,8 +187,8 @@
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-53" value="reg =&amp;nbsp; REG_FullRegName(reg)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="420" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UmLmGuS8aTaX2l4C1hXr-56" value="dist = ins_count - regs_last_write[reg]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="570" width="260" height="20" as="geometry" />
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-56" value="regs_last_write[reg] = ins_count" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="460" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
