@@ -70,11 +70,17 @@
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-11" value="dist = ins_count - regs_last_write[reg]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="560" width="260" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UmLmGuS8aTaX2l4C1hXr-13" target="UmLmGuS8aTaX2l4C1hXr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-13" value="dist &amp;gt; 0 &amp;amp;&amp;amp;&amp;nbsp;&lt;div&gt;dist &amp;lt;= 30&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180.01" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-17" value="distance_count[dist]++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="700" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-19" value="distance_count[dist]++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="700" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
