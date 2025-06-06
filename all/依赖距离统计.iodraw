@@ -48,7 +48,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="360" />
-              <mxPoint x="480" y="760" />
+              <mxPoint x="480" y="740" />
+              <mxPoint x="240" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,6 +73,15 @@
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-15" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UmLmGuS8aTaX2l4C1hXr-12">
           <mxGeometry x="-0.3334" y="1" relative="1" as="geometry">
             <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmLmGuS8aTaX2l4C1hXr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UmLmGuS8aTaX2l4C1hXr-3" target="UmLmGuS8aTaX2l4C1hXr-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="500" />
+              <mxPoint x="480" y="740" />
+              <mxPoint x="240" y="740" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-3" value="regs_last_write.find(reg) != regs_last_write.end()" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
