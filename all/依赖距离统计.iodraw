@@ -23,7 +23,7 @@
           <mxGeometry x="158.75" y="1090" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UmLmGuS8aTaX2l4C1hXr-0" value="reg =INS_RegR(ins,i)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="111.25" y="280" width="257.5" height="40" as="geometry" />
+          <mxGeometry x="140.63" y="280" width="198.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
