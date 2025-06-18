@@ -55,7 +55,7 @@
         <mxCell id="rowIYAKrS1RViJzmII9S-25" value="分支跳转？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rowIYAKrS1RViJzmII9S-29" value="&lt;div&gt;value = (( value &amp;lt;&amp;lt; 1 ) + 0x1 ) &amp;amp; 0x3;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GHR = (( GHR &amp;lt;&amp;lt; 1 ) + 0x1 ) &amp;amp; ((1 &amp;lt;&amp;lt; GHR_BITS) - 1);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rowIYAKrS1RViJzmII9S-29" value="&lt;div&gt;value = (( value &amp;lt;&amp;lt; 1 ) + 0x1 ) &amp;amp; 0x3;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GHR=((GHR&amp;lt;&amp;lt;1)+0x1)&amp;amp;((1 &amp;lt;&amp;lt;GHR_BITS) - 1);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="41.25" y="490" width="257.5" height="40" as="geometry" />
         </mxCell>
       </root>
