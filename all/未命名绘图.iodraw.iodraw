@@ -24,6 +24,9 @@
         <mxCell id="rowIYAKrS1RViJzmII9S-13" value="INS_IsBranch(ins) &amp;amp;&amp;amp; INS_HasFallThrough(ins)&lt;br&gt;&lt;div&gt;//是条件分支指令&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="70" width="257.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rowIYAKrS1RViJzmII9S-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rowIYAKrS1RViJzmII9S-14" target="rowIYAKrS1RViJzmII9S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-14" value="取指令地址低9位于GHR拼接得到12位index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="130" width="257.5" height="40" as="geometry" />
         </mxCell>
@@ -31,13 +34,13 @@
           <mxGeometry x="40" y="190" width="257.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-17" value="value&amp;gt;2?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="108.75" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-18" value="预测成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="350" width="90" height="20" as="geometry" />
+          <mxGeometry x="123.75" y="350" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-19" value="预测成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="125" y="360" width="90" height="20" as="geometry" />
+          <mxGeometry x="240" y="350" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
