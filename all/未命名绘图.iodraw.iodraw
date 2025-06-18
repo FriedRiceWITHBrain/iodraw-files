@@ -34,7 +34,10 @@
           <mxGeometry x="100" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-18" value="预测成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="350" width="90" height="20" as="geometry" />
+          <mxGeometry x="115" y="350" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rowIYAKrS1RViJzmII9S-19" value="预测成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="360" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
