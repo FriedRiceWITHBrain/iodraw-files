@@ -51,9 +51,14 @@
             <mxPoint x="300" y="610" as="sourcePoint" />
             <mxPoint x="350" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="600" />
-              <mxPoint x="300" y="560" />
+              <mxPoint x="440" y="560" />
+              <mxPoint x="360" y="600" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mw0KjoY7uF48iFrUiWKt-15" value="分支成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mw0KjoY7uF48iFrUiWKt-14">
+          <mxGeometry x="0.0359" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
