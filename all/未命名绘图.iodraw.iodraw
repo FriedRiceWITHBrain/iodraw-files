@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-16" value="value=BHT[index]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="190" width="257.5" height="40" as="geometry" />
+          <mxGeometry x="40" y="190" width="257.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rowIYAKrS1RViJzmII9S-17" target="rowIYAKrS1RViJzmII9S-30">
           <mxGeometry relative="1" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="rowIYAKrS1RViJzmII9S-43" value="correct ++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="41.25" y="730" width="257.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rowIYAKrS1RViJzmII9S-44" value="direction = true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rowIYAKrS1RViJzmII9S-44" value="fail ++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="730" width="257.5" height="40" as="geometry" />
         </mxCell>
       </root>
