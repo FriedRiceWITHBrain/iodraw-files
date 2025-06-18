@@ -27,8 +27,8 @@
         <mxCell id="rowIYAKrS1RViJzmII9S-14" value="取指令地址低9位于GHR拼接得到12位index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="130" width="257.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rowIYAKrS1RViJzmII9S-16" value="取指令地址低9位于GHR拼接得到12位index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="140" width="257.5" height="40" as="geometry" />
+        <mxCell id="rowIYAKrS1RViJzmII9S-16" value="value=BHT[index]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="190" width="257.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
