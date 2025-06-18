@@ -73,6 +73,12 @@
         <mxCell id="rowIYAKrS1RViJzmII9S-40" value="&lt;div&gt;value = ( value &amp;lt;&amp;lt; 1 ) &amp;amp; 0x3;&lt;/div&gt;&lt;div&gt;GHR=( GHR&amp;lt;&amp;lt;1)&amp;amp;((1 &amp;lt;&amp;lt; GHR_BITS)- 1);&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="570" width="257.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rowIYAKrS1RViJzmII9S-42" value="predict==direction?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rowIYAKrS1RViJzmII9S-43" value="direction = true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="51.25" y="520" width="257.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
