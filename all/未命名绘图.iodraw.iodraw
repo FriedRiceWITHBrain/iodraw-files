@@ -30,6 +30,9 @@
         <mxCell id="rowIYAKrS1RViJzmII9S-14" value="取指令地址低9位于GHR拼接得到12位index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="130" width="257.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rowIYAKrS1RViJzmII9S-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rowIYAKrS1RViJzmII9S-16" target="rowIYAKrS1RViJzmII9S-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-16" value="value=BHT[index]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="190" width="257.5" height="40" as="geometry" />
         </mxCell>
@@ -40,7 +43,7 @@
           <mxGeometry x="123.75" y="350" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rowIYAKrS1RViJzmII9S-19" value="预测成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="350" width="90" height="20" as="geometry" />
+          <mxGeometry x="250" y="350" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
