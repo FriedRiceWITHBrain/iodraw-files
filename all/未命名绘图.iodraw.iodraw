@@ -82,8 +82,14 @@
         <mxCell id="kG4KL0029s5oC_u45LA0-22" value="校准数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="245" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kG4KL0029s5oC_u45LA0-25" value="校准数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="245" width="90" height="30" as="geometry" />
+        <mxCell id="kG4KL0029s5oC_u45LA0-25" value="scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kG4KL0029s5oC_u45LA0-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="310" as="sourcePoint" />
+            <mxPoint x="490" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
