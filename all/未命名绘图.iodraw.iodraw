@@ -70,10 +70,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kG4KL0029s5oC_u45LA0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kG4KL0029s5oC_u45LA0-21" target="kG4KL0029s5oC_u45LA0-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="515" y="260" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="kG4KL0029s5oC_u45LA0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kG4KL0029s5oC_u45LA0-21" target="kG4KL0029s5oC_u45LA0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kG4KL0029s5oC_u45LA0-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kG4KL0029s5oC_u45LA0-21" target="kG4KL0029s5oC_u45LA0-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kG4KL0029s5oC_u45LA0-21" value="训练好的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
@@ -84,21 +85,19 @@
         <mxCell id="kG4KL0029s5oC_u45LA0-22" value="校准数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="245" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kG4KL0029s5oC_u45LA0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kG4KL0029s5oC_u45LA0-31" target="kG4KL0029s5oC_u45LA0-21">
+        <mxCell id="kG4KL0029s5oC_u45LA0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kG4KL0029s5oC_u45LA0-25" target="kG4KL0029s5oC_u45LA0-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="245" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="540" y="248" />
-              <mxPoint x="540" y="220" />
-              <mxPoint x="380" y="220" />
+              <mxPoint x="540" y="290" />
+              <mxPoint x="380" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kG4KL0029s5oC_u45LA0-29" value="量化后的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="kG4KL0029s5oC_u45LA0-25" value="scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="245" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kG4KL0029s5oC_u45LA0-31" value="scale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="247.5" width="80" height="25" as="geometry" />
+        <mxCell id="kG4KL0029s5oC_u45LA0-29" value="量化后的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
