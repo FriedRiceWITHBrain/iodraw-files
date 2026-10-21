@@ -117,13 +117,12 @@
         <mxCell id="kG4KL0029s5oC_u45LA0-39" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fontSize=6;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-20" y="50" width="220" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="kG4KL0029s5oC_u45LA0-41" value="" style="endArrow=none;html=1;rounded=0;fontSize=6;" edge="1" parent="1">
+        <mxCell id="kG4KL0029s5oC_u45LA0-41" value="" style="endArrow=none;html=1;rounded=0;fontSize=6;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="394" y="129" as="sourcePoint" />
-            <mxPoint x="394" y="120" as="targetPoint" />
+            <mxPoint x="370" y="119" as="sourcePoint" />
+            <mxPoint x="370" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="394" y="129" />
-              <mxPoint x="370" y="120" />
+              <mxPoint x="370" y="119" />
             </Array>
           </mxGeometry>
         </mxCell>
